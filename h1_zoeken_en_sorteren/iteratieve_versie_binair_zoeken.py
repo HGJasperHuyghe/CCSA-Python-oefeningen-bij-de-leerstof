@@ -15,3 +15,6 @@ def zoek_binair(rij, getal):
     return links
   else:
     return -1
+  
+  
+
